@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robfurphy
 - 👀 I’m interested in Java Software Development
-- 🌱 I’m currently learning Spring, SpringBoot, Kafka, Blockchain
+- 🌱 I’m currently expanding my toolset by learning Python. Next is Spring Framework, SpringBoot, Kafka, Blockchain
 - 📫 How to reach me https://www.linkedin.com/in/robfurphy
 
 <!---
